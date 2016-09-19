@@ -1,8 +1,32 @@
 #Introduction to Archivematica
 
-Presentation content by Sara Allain, [CC BY 2.5 CA](http://creativecommons.org/licenses/by/2.5/ca/), for the Congresso Nacional de Arquivologia in Fortaleza, Brazil, 17-21 October 2016.
+Presentation content by Sara Allain, [CC BY 2.5 CA](http://creativecommons.org/licenses/by/2.5/ca/), delivered at the Congresso Nacional de Arquivologia in Fortaleza, Brazil, 17-21 October 2016.
 
-## reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+Link to presentation:
+
+#Notes
+
+##Intro to Archivematica & AtoM
+
+##Links
+
+You may wish to access this presentation to follow along on your computer. You will
+also be able to
+
+## Schedule
+
+##Hi, Brazil!
+
+##About Us 1
+
+##About Us 2
+
+##Artefactual Systems
+
+##FOSS
+
+
+# reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 This presentation was created using reveal.js, a framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/). For more information, see the reveal.js project.
 
