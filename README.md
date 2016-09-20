@@ -4,7 +4,7 @@ Presentation content by Sara Allain, [CC BY 2.5 CA](http://creativecommons.org/l
 
 View this presentation here: LINK
 
-Read the accompanying speaker's notes here: 
+Read the accompanying speaker's notes here: https://github.com/sallain/am-workshop-brazil/blob/master/notes.md
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
